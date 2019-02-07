@@ -7,7 +7,7 @@ This repository contains resources for the Classic Arcade Game project.
 
 ## Overview
 
- A website where the player has to reach its goal while saving itself from enemiess.
+ A website where the player has to reach its goal while saving itself from enemies.
 
 ## Setup
 
