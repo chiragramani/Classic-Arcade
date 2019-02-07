@@ -146,8 +146,6 @@ class Player {
 // Place all enemy objects in an array called allEnemies
 let allEnemies = [new Enemy(), new Enemy(), new Enemy()];
 
-// allEnemies.forEach(enemy => enemy.initialPosition.y = )
-
 let player = new Player();
 
 // This listens for key presses and sends the keys to your
